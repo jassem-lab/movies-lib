@@ -1,0 +1,21 @@
+{
+  "main.js": "/movies-lib/static/js/main.71d45ec1.chunk.js",
+  "main.js.map": "/movies-lib/static/js/main.71d45ec1.chunk.js.map",
+  "runtime~main.js": "/movies-lib/static/js/runtime~main.09059fd3.js",
+  "runtime~main.js.map": "/movies-lib/static/js/runtime~main.09059fd3.js.map",
+  "static/css/2.d28afc14.chunk.css": "/movies-lib/static/css/2.d28afc14.chunk.css",
+  "static/js/2.04683627.chunk.js": "/movies-lib/static/js/2.04683627.chunk.js",
+  "static/js/2.04683627.chunk.js.map": "/movies-lib/static/js/2.04683627.chunk.js.map",
+  "index.html": "/movies-lib/index.html",
+  "precache-manifest.9f88f9fe4989ae5de456503d7fdb4b03.js": "/movies-lib/precache-manifest.9f88f9fe4989ae5de456503d7fdb4b03.js",
+  "service-worker.js": "/movies-lib/service-worker.js",
+  "static/css/2.d28afc14.chunk.css.map": "/movies-lib/static/css/2.d28afc14.chunk.css.map",
+  "static/media/empty.svg": "/movies-lib/static/media/empty.e0b5f43f.svg",
+  "static/media/error.svg": "/movies-lib/static/media/error.cbc8724a.svg",
+  "static/media/logo.svg": "/movies-lib/static/media/logo.bcc287ea.svg",
+  "static/media/nothing.svg": "/movies-lib/static/media/nothing.4c58037b.svg",
+  "static/media/person.svg": "/movies-lib/static/media/person.fdbc4613.svg",
+  "static/media/slick-theme.css": "/movies-lib/static/media/slick.f97e3bbf.svg",
+  "static/media/tmdb.svg": "/movies-lib/static/media/tmdb.0f4a7f74.svg",
+  "static/media/tmdbgreen.svg": "/movies-lib/static/media/tmdbgreen.27b65cb4.svg"
+}
